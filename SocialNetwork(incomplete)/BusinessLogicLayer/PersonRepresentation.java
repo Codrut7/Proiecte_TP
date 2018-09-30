@@ -7,7 +7,7 @@ import java.util.*;
 
 /*
      27/09/2018 - Fodor Bogdan Codrut
-     Vom folosi un graph data structure pentru a reprezenta persoanele intr-o retea sociala
+     Se foloseste un graph data structure pentru a reprezenta persoanele intr-o retea sociala
      Aici avem toate interactiunile din reteaua sociala
  */
 public class PersonRepresentation {
